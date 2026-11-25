@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# PyInstaller Build
+build/
+dist/
+*.spec
+
+# Security & Private Data (NEVER UPLOAD THESE)
+private_key.pem
+license.lic
+credentials.json
+token.json
+*.db
+*.sqlite3
+data/
+
+# VS Code
+.vscode/
+*.exe
